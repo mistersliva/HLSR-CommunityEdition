@@ -1,2 +1,2 @@
-# FrontendHLSR-improvements
-Frontend improvements of HLSR Launcher
+# HLSR CommunityEdition
+Frontend community improvements of HLSR Launcher
